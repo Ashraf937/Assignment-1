@@ -48,7 +48,7 @@ void Skew_vt ();
 
 int main() {
 
-    //menu
+    //menu to select your desired filter.
     char ans;
     char x;
     cout << " " << endl
