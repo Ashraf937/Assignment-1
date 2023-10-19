@@ -313,7 +313,7 @@ void Rotate () {
 
     int y,x;  //store the rotation degree.
     int temp [SIZE][SIZE];
-    cout<<"Please enter the rotation Degree (90 - 180 - 270): ";
+    cout<<"enter the rotation Degree (90 - 180 - 270): ";
     cin>>y ;
     x = (0.5 * y);
     while(x--){
