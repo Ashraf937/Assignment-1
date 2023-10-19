@@ -12,7 +12,7 @@
 //          we are required to devise solutions to specific problems or tasks,
 //          which helps develop critical thinking and analytical skills.
 
-//This code is just the same as the grey scaled code with just adding the RGB matrices.
+//This code is just the same as the grey-scaled code with just adding the RGB matrices.
 
 #include <iostream>
 #include <fstream>
